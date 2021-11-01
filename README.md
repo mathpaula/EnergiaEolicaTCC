@@ -3,4 +3,6 @@ Trabalho de Conclusão de Curso (TCC) apresentado como parte dos requisitos para
 
 Título: Aplicação de Técnicas de Aprendizado de Máquina e Decisões Orientadas a Dados no Cenário Eólico Brasileiro.
 
+Autor: Matheus Pussaignolli de Paula
+
 Apoio: FAPESP (#2018/05341-4).
